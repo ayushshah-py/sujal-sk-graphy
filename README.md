@@ -14,8 +14,8 @@ Welcome to the `Photographer Portfolio` – a stunning and professional showcase
 # Screenshots 📸.𖥔 ˖
 
 ![image](https://github.com/ayushshah-py/sujal-sk-graphy/blob/main/SUJAL%20WEBSITE%20MAIN%20PHOTO.png?raw=true)
-![image](https://github.com/user-attachments/assets/dd41b4ec-19cd-4fa9-bf87-7b352bb2312d)
-
+![image](https://github.com/ayushshah-py/sujal-sk-graphy/blob/main/KKEYUR%20WEBSITE%20IMAGE.png?raw=true)
+![image]()
 
 <br/>
 
