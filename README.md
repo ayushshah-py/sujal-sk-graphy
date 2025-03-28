@@ -1,3 +1,9 @@
+# AYUSH SHAH #
+
+
+![image](https://github.com/ayushshah-py/sujal-sk-graphy/blob/main/SUJAL%20WEBSITE%20MAIN%20PHOTO.png?raw=true)
+
+
 # Photographer Portfolio 📸✨
 
 Welcome to the `Photographer Portfolio` – a stunning and professional showcase of photography `skills` and `artistry`! 🌟 Whether you're a photography enthusiast or a professional seeking inspiration, this portfolio is designed to captivate and engage.
@@ -53,13 +59,13 @@ Follow these steps to clone and run the **Photographer Portfolio** on your local
      Open **Git Bash** and run:
 
      ```bash
-     git clone https://github.com/Prakhar-002/Photographer-Portfolio.git
+     git clone https://github.com/ayushshah-py/sujal-sk-graphy.git
      ```
 
    - `For Linux and macOS 🌿`  
      Open your terminal and run:
      ```bash
-     sudo git clone https://github.com/Prakhar-002/Photographer-Portfolio.git
+     sudo git clone https://github.com/ayushshah-py/sujal-sk-graphy.git
      ```
 
 2. **Navigate to the Project Folder**  
@@ -83,3 +89,11 @@ Meet `AUSH SHAH ` 🙋🏻‍♂️ , An avid learner with a passion for masteri
 ![image](https://github.com/user-attachments/assets/47990af4-77d6-4e99-9c6c-76a30280192e)
 ![image](https://github.com/user-attachments/assets/3456946a-2744-433f-be0e-ba6eedc4dd43)
 ![image](https://github.com/ayushshah-py/sujal-sk-graphy/blob/main/IF%20ANY%20QUERY%20IMAGE.png?raw=true)
+
+
+
+
+# AUTHAR :- AYUSH SHAH  #
+# CONTACT :- 8799146289 #
+# ABOUT ME :- AYUSH SHAH ITM #
+
