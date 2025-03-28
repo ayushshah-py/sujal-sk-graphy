@@ -79,7 +79,7 @@ Meet `AUSH SHAH ` 🙋🏻‍♂️ , An avid learner with a passion for masteri
 ## Picture Library 🏕️
 
 
-
+![image](https://github.com/ayushshah-py/sujal-sk-graphy/blob/main/SUJAL%20WEBSITE%20PHOTO.png?raw=true)
 ![image](https://github.com/user-attachments/assets/47990af4-77d6-4e99-9c6c-76a30280192e)
 ![image](https://github.com/user-attachments/assets/3456946a-2744-433f-be0e-ba6eedc4dd43)
 ![image](https://github.com/user-attachments/assets/80ead08d-4f0b-48b0-9a14-50381cdde4f8)
