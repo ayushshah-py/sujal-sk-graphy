@@ -1,7 +1,7 @@
 # AYUSH SHAH #
 
 
-![image](https://github.com/ayushshah-py/sujal-sk-graphy/blob/main/SUJAL%20WEBSITE%20MAIN%20PHOTO.png?raw=true)
+![image](https://github.com/ayushshah-py/sujal-sk-graphy/blob/main/AYUSH%20SHAH.png?raw=true)
 
 
 # Photographer Portfolio 📸✨
